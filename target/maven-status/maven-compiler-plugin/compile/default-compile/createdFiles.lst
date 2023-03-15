@@ -1,0 +1,2 @@
+com\restassured\apitest\Test001_SimpleGetTest.class
+com\restassured\apitest\Test002_StatusCodeAssert.class
